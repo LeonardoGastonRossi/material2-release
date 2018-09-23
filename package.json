@@ -1,6 +1,6 @@
 {
   "name": "@angular/material",
-  "version": "6.4.7",
+  "version": "6.4.7.1",
   "description": "Angular Material",
   "main": "./bundles/material.umd.js",
   "module": "./esm5/material.es5.js",
@@ -8,7 +8,7 @@
   "typings": "./material.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/material2.git"
+    "url": "https://github.com/LeonardoGastonRossi/material2-release.git"
   },
   "keywords": [
     "angular",
@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angular/material2/issues"
+    "url": "https://github.com/LeonardoGastonRossi/material2-release/issues"
   },
   "homepage": "https://github.com/angular/material2#readme",
   "peerDependencies": {
